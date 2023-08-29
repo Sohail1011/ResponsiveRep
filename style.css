@@ -33,25 +33,25 @@ main {
     border: 4px solid black;
 }
 
-@media (max-width: 1800px) {
+@media (max-width: 2400px) {
     .content {
         background-color: tomato;
     }
 }
 
-@media (max-width: 1700px) {
+@media (max-width: 1800px) {
     .content {
         background-color: cadetblue;
     }
 }
 
-@media (max-width: 1500px) {
+@media (max-width: 1700px) {
     .content {
         background-color: chartreuse;
     }
 }
 
-@media (max-width: 1400px) {
+@media (max-width: 1600px) {
     .content {
         background-color: steelblue;
     }
